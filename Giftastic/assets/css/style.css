@@ -1,0 +1,67 @@
+body{
+    background-image: url("../images/img.jpg");
+   
+}
+
+.container-fluid{
+    
+    color: darkcyan;
+    text-align: center;
+}
+
+
+
+h3{
+    text-align: center;
+    color: darkgrey;
+}
+#addAnimal:hover{
+    background-color: whitesmoke;
+    
+}
+#addAnimal{
+    background-color: orangered;
+    font-size: 15px;
+}
+#animalForm{
+    text-align: center;
+    
+    
+}
+ #giphyButtons{
+     text-align: center;
+     
+ }
+
+ button{
+     background-color:crimson;
+     color:darkcyan;
+     font-size: 20px;
+
+ }
+
+ button:hover{
+     background-color: whitesmoke;
+
+ }
+
+ 
+
+
+.gif {
+    width: 300px;
+    
+    
+}
+  
+  .ratings,
+  p {
+    width: 200px;
+    color: darkgray;
+	font-style: normal;
+	font-stretch: ultra-expanded;
+  }
+  
+  
+  
+  
